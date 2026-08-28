@@ -16630,5 +16630,89 @@
       "Main"
     ],
     "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "8j3tV1WnYs3xEun8d8DiHJcw4p9KJ9jNVTLk2LhpVzDb",
+    "name": "suspicious1387",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "FHA52KvB3zv6dqrSncDbr9WWyGL3Nshbnfrcqp6N35Ev",
+    "name": "suspicious1388",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "6yrPDGAAYqGG1cpPMaRXctjVyvTKRfHfYT8sGiceAa2H",
+    "name": "suspicious1389",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "BaJuVRytMK199No488vo26dMPSCFEEVQcWJ2XHRpkDFi",
+    "name": "suspicious1390",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "2pFf4TuAqSMYmDWGy5kT6Qpdk1gky7ip2rHTKhqD56J3",
+    "name": "suspicious1391",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "EoSXWfWCNuk95JdRt2rprDiCLs4DfPLihWqEuXvd3WBU",
+    "name": "suspicious1392",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "258Xm2nXwTxrzr4ZD6aAZbuDetg7isVNVxoF2spUJrWw",
+    "name": "suspicious1393",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
   }
 ]
