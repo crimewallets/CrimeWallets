@@ -34942,5 +34942,101 @@
       "Main"
     ],
     "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "6LpsR1s4umeugoRqPsHqEvJWzr5YAdqm67KATJSCAyYk",
+    "name": "suspicious2913",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "AncdBJ9qExWyVdG1ecrbWrHh9QizKFMTJmFut4QhFKgq",
+    "name": "suspicious2914",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "ER7CUhDXGkdYZti1kWfKyPqf6NnKm1WvxGvvs3VLYTAJ",
+    "name": "suspicious2915",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "J87znvNxEoUUr8cLPodgpbKDnGRoMp2fRMBswmjDuAA1",
+    "name": "suspicious2916",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "GPVtQgkaFXy2cuibhiHBwxReNErdaSxSzfVKy1yELavJ",
+    "name": "suspicious2917",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "BHoYiRUUt4CmVHLkRmfFYD4GfQaTdeaanaH9C4RvKaFE",
+    "name": "suspicious2918",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "448Y1pWTa67QtoHd9L54EnwJxNqEcD8YqCZGd9uLR9pm",
+    "name": "suspicious2919",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "HtwAmxzqQoNsWLkmUXUp5SqYSH5RvaxqfHkrJcXsK7y8",
+    "name": "suspicious2920",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
   }
 ]
