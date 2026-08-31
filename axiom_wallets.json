@@ -37054,5 +37054,29 @@
       "Main"
     ],
     "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "BUnX24QekaY3EjBHPhT42kyjCnCYnskJ6Tftny2ZixXF",
+    "name": "suspicious3089",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "2BrAZsArMk7chd8q4bAVFyhPnzxpiMxdK471N7u6QZvP",
+    "name": "suspicious3090",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
   }
 ]
