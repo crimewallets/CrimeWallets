@@ -37078,5 +37078,173 @@
       "Main"
     ],
     "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "3tqpS1u2mXkfiGSCKhaEZUeFQa2yfqmpmp85ZTBMZCjk",
+    "name": "suspicious3091",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "DjQDnpxSeJDHxedAozvzxjriYyGissM8k92opndjvUuf",
+    "name": "suspicious3092",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "L413NVjcHtRv6EvPbtZoKLkRjCkcxj5PsahhCPwPUaR",
+    "name": "suspicious3093",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "8KATXkPiLzLyTaAHKwxH3EezFbcog8wboRBo1zTtkXAG",
+    "name": "suspicious3094",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "8WBNd2yXXtA4PVcHd1MR4XESYsT1Rv6pVEjoUnq2Siya",
+    "name": "suspicious3095",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "591JMiuZz1agDsHEvF5v4rT2dKeApZa2rBQqkU35pjXX",
+    "name": "suspicious3096",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "BjtBoQiNbkGJ3J6DAkWk7VmeC5kMPqrCd6i3fExsASD9",
+    "name": "suspicious3097",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "7pGfRbFLo4Na4auod8djmxEjcMUEAZ7pTg6oNFxBg8em",
+    "name": "suspicious3098",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "HF8j74EnuXrYs7WKtVNwoSLaaujatRQ9G5oHabTnbWHq",
+    "name": "suspicious3099",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "Egto4iiLwmfSp2Uc5XFQehv8CZvPgBTgRWRgbcDvovnx",
+    "name": "suspicious3100",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "9hk5fKjDHWqp15qyX9c58BHd7MXxGDhxJ1wqqwNeDCYw",
+    "name": "suspicious3101",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "BikeYqmvrHSpKoknomkiUG4XbLswVUMBVtT4xu2BsSsZ",
+    "name": "suspicious3102",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "CNFACGxJSJjC5hTP34hyJd4RJXeoFNC6S1ftjsdMnVJx",
+    "name": "suspicious3103",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "EYDwxL8xU7Z7EWxtpJEASPJCNGx5QnyeupnUzcefTCtt",
+    "name": "suspicious3104",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
   }
 ]
