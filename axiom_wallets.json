@@ -40090,5 +40090,29 @@
       "Main"
     ],
     "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "HcHYKN3nSbTDfrJWnxNbdwxcz5kRkZ4GKeHFpjUyfQmB",
+    "name": "suspicious3342",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "9uMCGuFvS3iaQepk97XSjdLCkSXwSf8xJHT6qJbmhBfq",
+    "name": "suspicious3343",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
   }
 ]
