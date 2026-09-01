@@ -40078,5 +40078,17 @@
       "Main"
     ],
     "sound": "default"
+  },
+  {
+    "trackedWalletAddress": "5Py5H3sv4d8gKiYhpsHMgz5iQDjRMwun5YhxZJpWWGzJ",
+    "name": "suspicious3341",
+    "emoji": "❌",
+    "alertsOnToast": false,
+    "alertsOnBubble": false,
+    "alertsOnFeed": false,
+    "groups": [
+      "Main"
+    ],
+    "sound": "default"
   }
 ]
